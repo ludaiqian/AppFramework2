@@ -1,4 +1,3 @@
-# AppFramework2
-App base framework base on retrofit/rxjava/okhttp/glide etc.
-##此项目后续会更新
+
+##此项目已作出较多调整，待整理，后续会更新
  
